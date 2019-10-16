@@ -178,6 +178,7 @@ int main()
                     {
                         process(convertCommand(history));
                     }
+                    continue;
                 }
                 else
                 {
